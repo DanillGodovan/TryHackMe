@@ -4,7 +4,7 @@ This repository documents my learning journey through various TryHackMe rooms, f
 
 All activities were completed using educational labs in accordance with TryHackMe’s terms of service. This project serves both as a personal knowledge base and a public showcase of hands-on cybersecurity skills.
 
-**My Profile - https://tryhackme.com/p/Bonkinan **
+**My Profile - https://tryhackme.com/p/Bonkinan**
 
 ## Covered Tracks
 
