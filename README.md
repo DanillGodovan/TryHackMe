@@ -12,6 +12,7 @@ All activities were completed using educational labs in accordance with TryHackM
 - **Pre-Security**
 - **Jr Penetration Tester**
 - **Red Teaming**
+- **Web Fundamentals** (Right Now)
 
 ## Skills Practiced
 
