@@ -6,7 +6,7 @@ All activities were completed using educational labs in accordance with TryHackM
 
 **My Profile - https://tryhackme.com/p/Bonkinan**
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Bonkinan.png)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Bonkinan.png?v=2)
 
 ## Covered Tracks
 - **Pre-Security**
