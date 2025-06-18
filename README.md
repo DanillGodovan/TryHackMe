@@ -19,11 +19,14 @@ All activities were completed using educational labs in accordance with TryHackM
 ## Skills Practiced
 
 - Network scanning and enumeration (nmap)
+- Domain and Subdomain enumeration (gobuster)
 - Web application attacks (LFI, SQLi)
+- Web Intrusion via Burpsuite
 - Exploitation frameworks (Metasploit)
 - OSINT and password profiling
+- Bruteforce via Hydra or JackTheRipper
 - Phishing fundamentals
-- Windows privilege escalation
+- Windows & Linux privilege escalation
 - File transfer and shell access
 
 ## Room Reports
