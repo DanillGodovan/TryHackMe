@@ -14,7 +14,7 @@ All activities were completed using educational labs in accordance with TryHackM
 - **Cyber Security 101**
 - **Jr Penetration Tester**
 - **Web Fundamentals**
-- **Web Application Testing**
+- **Web Application Pentesting**
 - **SOC L1** (Covering right now)
 
 ## Skills Practiced
