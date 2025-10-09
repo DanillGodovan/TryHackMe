@@ -6,7 +6,7 @@ All activities were completed using educational labs in accordance with TryHackM
 
 **My Profile - https://tryhackme.com/p/Bonkinan**
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Bonkinan.png?v=6)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Bonkinan.png?v=1)
 
 ## Covered Tracks
 
@@ -14,12 +14,13 @@ All activities were completed using educational labs in accordance with TryHackM
 - **Cyber Security 101**
 - **Jr Penetration Tester**
 - **Web Fundamentals**
-- **Web Application Testing** (Covering right now)
+- **Web Application Testing**
+- **SOC L1** (Covering right now)
 
 ## Skills Practiced
 
 - Network scanning and enumeration (nmap)
-- Domain and Subdomain enumeration (gobuster, dirsearch)
+- Domain and Subdomain enumeration (gobuster, dirsearch, ffuf)
 - Web application attacks (LFI, SQLi, SSTi)
 - Web Intrusion via Burpsuite
 - Exploitation frameworks (Metasploit)
