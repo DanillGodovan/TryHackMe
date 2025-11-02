@@ -29,6 +29,13 @@ All activities were completed using educational labs in accordance with TryHackM
 - Phishing fundamentals
 - Windows & Linux privilege escalation
 - File transfer and shell access
+- Investigating of RAM
+- Digital Forensics of Windows
+- Digital Forensics of Linux
+- Work with SIEM
+- Splunk triage
+- ELK triage
+- Work with Cyber Kill Chain and MITRE ATT&CK
 
 ## Room Reports
 
